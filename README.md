@@ -4,4 +4,5 @@
 ### A secure Java email client using standard sockets, networking, and Java Mail API.
 
 
-###  Established direct communication with ISP mail servers, optimizing the end-to-end email transaction process with a 15% increase in efficiency.
+###  1. Established direct communication with ISP mail servers. 
+###  2. Optimizing the end-to-end email transaction process with a 15% increase in efficiency.
